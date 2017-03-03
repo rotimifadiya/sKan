@@ -1,7 +1,7 @@
 import re
 from copy import deepcopy
 import csv
-
+# TAKLA WAS HERE
 class ThermData:
 
 	def __init__(self, filename, calibration = []):
